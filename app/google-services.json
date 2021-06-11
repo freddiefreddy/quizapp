@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "778341480131",
+    "firebase_url": "https://quizv3-276517.firebaseio.com",
+    "project_id": "quizv3-276517",
+    "storage_bucket": "quizv3-276517.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778341480131:android:50f74dd96aaba199691476",
+        "android_client_info": {
+          "package_name": "com.todocode.quizv3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778341480131-gfu14ogtk5dvumc1fj89f1aagr3gkq5v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTmdtZeQ2675_s-Pwj3XB_1SbNQfo-oXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778341480131-gfu14ogtk5dvumc1fj89f1aagr3gkq5v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
